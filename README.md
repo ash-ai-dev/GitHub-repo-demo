@@ -1,3 +1,5 @@
-# GitHub-repo-demo
+# Mainspring Code Generator
 
-test merge conflict
+## This is a description
+
+### Ashutosh Mane, Jaabir Ahmed Saleem, Dennis Shih
